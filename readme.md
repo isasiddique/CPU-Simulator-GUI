@@ -5,6 +5,12 @@ The application consists of six different CPU Scheduling Algorithms. For most of
 ## Instructions
 Run this code on Visual Studio.
 
+## Notes
+This is the orignial repository that was forked and the changes were added accordingly to three folders:
+Form1.cs
+CPUScheduler.cs
+Algorithms.cs
+
 ## Usage
 
 ```
